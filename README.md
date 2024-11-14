@@ -12,9 +12,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=samtrent17&theme=transparent) 
 
 
-<img  alt="my stats" align = "left" width = "39%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samtrent17&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
+<img  alt="my stats" align = "left" width = "39%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KatosharifAchen&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
 
-<img  alt="my stats" align = "center" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=samtrent17&bg_color=ffffff00&text_color=ffffff"/> 
+<img  alt="my stats" align = "center" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=KatosharifAchen&bg_color=ffffff00&text_color=ffffff"/> 
 
 
 ### General Purpose Programming Languages
