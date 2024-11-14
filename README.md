@@ -9,7 +9,7 @@
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/KatosharifAchen.svg)](https://user-badge.committers.top/uganda_public/KatoSharifAchen) in Uganda
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=samtrent17&theme=transparent) 
+![GitHub Streak](https://streak-stats.demolab.com?user=KatosharifAchen&theme=transparent) 
 
 
 <img  alt="my stats" align = "left" width = "39%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KatosharifAchen&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
