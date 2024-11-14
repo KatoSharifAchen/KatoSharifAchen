@@ -6,7 +6,7 @@
 - 😄 Pronouns:
 - ⚡ Fun fact:
   
-### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/samtrent17.svg)](https://user-badge.committers.top/uganda_public/samtrent17) in Uganda
+### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/samtrent17.svg)](https://user-badge.committers.top/uganda_public/KatoSharifAchen) in Uganda
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=samtrent17&theme=transparent) 
